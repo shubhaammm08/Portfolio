@@ -309,7 +309,7 @@ const Contact = () => {
                 <h3 className="font-semibold mb-4">Connect With Me</h3>
                 <div className="flex space-x-4">
                   <motion.a
-                    href="https://linkedin.com/in/shubham-kadam"
+                    href="https://www.linkedin.com/in/shubham-kadam-52511325b/"
                     target="_blank"
                     rel="noopener noreferrer"
                     whileHover={{ scale: 1.05 }}
@@ -319,7 +319,7 @@ const Contact = () => {
                     <span>LinkedIn</span>
                   </motion.a>
                   <motion.a
-                    href="https://github.com/shubham-kadam"
+                    href="https://github.com/shubhaammm08"
                     target="_blank"
                     rel="noopener noreferrer"
                     whileHover={{ scale: 1.05 }}

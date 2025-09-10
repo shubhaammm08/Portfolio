@@ -106,12 +106,12 @@ export const experiences = [
 export const socialLinks = [
   {
     name: "LinkedIn",
-    url: "https://linkedin.com/in/shubham-kadam",
+    url: "https://www.linkedin.com/in/shubham-kadam-52511325b/",
     icon: "linkedin"
   },
   {
     name: "GitHub",
-    url: "https://github.com/shubham-kadam",
+    url: "https://github.com/shubhaammm08",
     icon: "github"
   },
   {

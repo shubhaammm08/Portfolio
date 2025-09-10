@@ -84,7 +84,7 @@ const Navigation = () => {
             {/* Social Links */}
             <div className="flex items-center space-x-2">
               <motion.a
-                href="https://linkedin.com/in/shubham-kadam"
+                href="https://www.linkedin.com/in/shubham-kadam-52511325b/"
                 target="_blank"
                 rel="noopener noreferrer"
                 whileHover={{ scale: 1.1 }}
@@ -93,7 +93,7 @@ const Navigation = () => {
                 <Linkedin className="w-4 h-4" />
               </motion.a>
               <motion.a
-                href="https://github.com/shubham-kadam"
+                href="https://github.com/shubhaammm08"
                 target="_blank"
                 rel="noopener noreferrer"
                 whileHover={{ scale: 1.1 }}
@@ -213,7 +213,7 @@ const Navigation = () => {
                 </Button>
                 <div className="flex items-center space-x-2">
                   <a
-                    href="https://linkedin.com/in/shubham-kadam"
+                    href="https://www.linkedin.com/in/shubham-kadam-52511325b/"
                     target="_blank"
                     rel="noopener noreferrer"
                     className="p-2 text-gray-600 dark:text-gray-400 hover:text-blue-600 dark:hover:text-blue-400"
@@ -221,7 +221,7 @@ const Navigation = () => {
                     <Linkedin className="w-4 h-4" />
                   </a>
                   <a
-                    href="https://github.com/shubham-kadam"
+                    href="https://github.com/shubhaammm08"
                     target="_blank"
                     rel="noopener noreferrer"
                     className="p-2 text-gray-600 dark:text-gray-400 hover:text-blue-600 dark:hover:text-blue-400"

@@ -338,7 +338,7 @@ const Projects = () => {
                 size="lg"
                 variant="outline"
                 className="border-white text-white hover:bg-white hover:text-blue-600"
-                onClick={() => window.open('https://github.com/shubham-kadam', '_blank')}
+                onClick={() => window.open('https://github.com/shubhaammm08', '_blank')}
               >
                 View GitHub
               </Button>
